@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Rajeev/AndroidStudioProjects/ChitChat/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.23055555555555557" />
+        <entry key="..\:/Users/Rajeev/AndroidStudioProjects/ChitChat/app/src/main/res/drawable-v24/round_bg.xml" value="0.1" />
+        <entry key="..\:/Users/Rajeev/AndroidStudioProjects/ChitChat/app/src/main/res/drawable-v24/round_border.xml" value="0.1" />
+        <entry key="..\:/Users/Rajeev/AndroidStudioProjects/ChitChat/app/src/main/res/drawable-v24/wave.xml" value="0.1" />
+        <entry key="..\:/Users/Rajeev/AndroidStudioProjects/ChitChat/app/src/main/res/drawable/bg_entermsghere.xml" value="0.152" />
+        <entry key="..\:/Users/Rajeev/AndroidStudioProjects/ChitChat/app/src/main/res/drawable/bg_reciever.xml" value="0.128" />
+        <entry key="..\:/Users/Rajeev/AndroidStudioProjects/ChitChat/app/src/main/res/drawable/bg_sender.xml" value="0.176" />
+        <entry key="..\:/Users/Rajeev/AndroidStudioProjects/ChitChat/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1484375" />
+        <entry key="..\:/Users/Rajeev/AndroidStudioProjects/ChitChat/app/src/main/res/layout/activity_chatdetailactivity.xml" value="0.152" />
+        <entry key="..\:/Users/Rajeev/AndroidStudioProjects/ChitChat/app/src/main/res/layout/activity_groupchat.xml" value="0.2" />
+        <entry key="..\:/Users/Rajeev/AndroidStudioProjects/ChitChat/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Rajeev/AndroidStudioProjects/ChitChat/app/src/main/res/layout/activity_settings.xml" value="0.2" />
+        <entry key="..\:/Users/Rajeev/AndroidStudioProjects/ChitChat/app/src/main/res/layout/activity_signin.xml" value="0.152" />
+        <entry key="..\:/Users/Rajeev/AndroidStudioProjects/ChitChat/app/src/main/res/layout/activity_signup.xml" value="0.264" />
+        <entry key="..\:/Users/Rajeev/AndroidStudioProjects/ChitChat/app/src/main/res/layout/fragment_callsfrag.xml" value="0.152" />
+        <entry key="..\:/Users/Rajeev/AndroidStudioProjects/ChitChat/app/src/main/res/layout/fragment_chatsfrag.xml" value="0.2" />
+        <entry key="..\:/Users/Rajeev/AndroidStudioProjects/ChitChat/app/src/main/res/layout/fragment_statusfrag.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/Rajeev/AndroidStudioProjects/ChitChat/app/src/main/res/layout/sample_reciever.xml" value="0.8" />
+        <entry key="..\:/Users/Rajeev/AndroidStudioProjects/ChitChat/app/src/main/res/layout/sample_sender.xml" value="0.176" />
+        <entry key="..\:/Users/Rajeev/AndroidStudioProjects/ChitChat/app/src/main/res/layout/samplechat_show.xml" value="0.264" />
+        <entry key="..\:/Users/Rajeev/AndroidStudioProjects/ChitChat/app/src/main/res/menu/menue.xml" value="0.152" />
+        <entry key="..\:/Users/Rajeev/AndroidStudioProjects/ChitChat/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1484375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
