@@ -51,8 +51,17 @@ public class MainActivity extends AppCompatActivity {
 
             case R.id.logout:
 
-                startActivity(new Intent(MainActivity.this,signin.class));
                 auth.getInstance().signOut();
+
+                Intent intent = new Intent(MainActivity.this, signin.class);
+                (MainActivity.this).finish();
+                intent.setFlags( Intent.FLAG_ACTIVITY_CLEAR_TOP | Intent.FLAG_ACTIVITY_NO_HISTORY);
+
+                startActivity(intent);
+
+
+               // startActivity(new Intent(MainActivity.this,signin.class));
+
 
                 break;
 
