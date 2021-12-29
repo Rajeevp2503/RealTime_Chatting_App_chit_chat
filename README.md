@@ -1,5 +1,5 @@
 # RealTime_Chatting_App_chit_chat
-![chitchat1](https://user-images.githubusercontent.com/73985335/128609150-e4a57271-afe5-4e32-85b8-457cf52a3522.jpeg)
+<img src="https://user-images.githubusercontent.com/73985335/128609150-e4a57271-afe5-4e32-85b8-457cf52a3522.jpeg" width=50% height=50%>
 ![chitchat2](https://user-images.githubusercontent.com/73985335/128609154-a0f5df3a-280d-4b82-b1e3-97247ed728be.jpeg)
 ![3chitchat3](https://user-images.githubusercontent.com/73985335/128611245-d4e36454-379c-4012-bd93-77026081c249.jpeg)
 
