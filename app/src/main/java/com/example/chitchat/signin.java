@@ -74,6 +74,7 @@ public class signin extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 progressDialog.show();
+
                 auth.signInWithEmailAndPassword(binding.inemail.getText().toString(),binding.inpassword.getText().toString())
                         .addOnCompleteListener(new OnCompleteListener<AuthResult>() {
                             @Override
@@ -81,7 +82,7 @@ public class signin extends AppCompatActivity {
                                 progressDialog.dismiss();
                                 if (task.isSuccessful()) {
                                     Toast.makeText(getApplicationContext(),"successfully inserted",Toast.LENGTH_LONG).show();
-                                    startActivity(new Intent(signin.this,MainActivity.class));
+
                                 }
                                 else {
                                     Log.e("rajeeev", "authorization nahi  hai sign in with email ");
